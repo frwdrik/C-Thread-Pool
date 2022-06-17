@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T19:41:54.509Z" agent="5.0 (X11)" etag="azTZOl6HC4WQhLRut9fy" version="17.4.6" type="github"><diagram id="-aXSDQ4N-dTGHUJC1ZHd" name="Page-1">7Vpdc5s4FP01ntl9yA7f4Md8JzPtNJO00+6jDLKtiYwcIWK7v36vQNgg4UBck2R3+xR0LQl0z9E9R5CRe75YX3O0nH9mCaYjx0rWI/di5Di2FUbwR0Y2ZSSI/DIw4yRRnXaBB/ITVyNVNCcJzhodBWNUkGUzGLM0xbFoxBDnbNXsNmW0edclmmEj8BAjaka/k0TMy2jkW7v4DSazeXVn21K/LFDVWQWyOUrYqhZyL0fuOWdMlFeL9TmmMnlVXspxV3t+3T4Yx6noM8BbXH1aiity8nQ9wVl6+V18PT1RszwjmqsF32OKNiSdQfQOcbGBv3+c8oQ9/amWITZVbmB+gAEaZ7C2pQzGlOVwu7PVnAj8sESxDK6AGRCbiwWFlg2XU5aKK7QgVJLiBtNnLEiM1A+KA7aj2ueMMg6BBE9RTmGpZ4iSWSrvBivHXN5ecPaIzY5TQqkZVUvGXOD13lzaW4SA2pgtsOAyFWqAr0isSO0qiFc7hjgVD+Z1dlRcQIqVs+3MO+DgQmH3ChxdA8cvS5zeJnJVnD3DHuISyGsibvLJyIGbWNeMzSg2UeUsTxOcKKg6kDxCLj3PaiQzMJNpBy3JjIbKpWfk0sgRJSne8q6qC5KwCeFQhQiT9MxYLuNHTpftN9Nlt+WrJV2+PVS+gg+dL9/2P1i+xi35CorKlJBnuJzJy1PIBawQymKRHcfi+CnHmai6wp1rvVsmWKIsK8v4OSUyV451e9F7dBWacD2iD9U1IU1OpewWYiAfIW4iuqsuFrTwmogf8vov23JV+++iHarWxbrW9WJTa9xhTgAQKQBlLAVwysmscVQFytm8qrmbrmht6i19wnJtODEMgkY9WD/LeYy7S4pAfIZF11YyqVyjqt9GVRXjIN2CPDcft42+6g53jBS8qAqx1awsnl5hy2WqUXWnoU+klSjP1SYq82BMVOym7bIP32DVzq3tsG+ZFECNq9mKLCgqKtMRCo3rNFe9FahGofFN+MKhCo1turs9lYZxabocqzB6PXc6ZEo097bhy2Q+oYLRU/XDgiSJHH7GcUZ+okkxldxqS0mFYvn+2ci/kHPlgmXKCRoOL2UFaHV7p0K9cHyBNHvRPdEcn29i26Yigxk+2+lW3dZanMHmEweUaLtRnv0Xy/MRK+c+WN6mJLp2RyXrWxJ9rTi4lSt5q5JoHhBeLd29Tm1Vx184tR2RPUFP3fXek2S6Q3WDQ3U3aE7k6RZ2aJK1nZwMvbnHpemHjnmhypZgvX0piAmdoPgRRn27v+3rSYFKn9AE0+Hkaq/uqPdSavBoKwjdeuS+rEfS5Y7tBt6VzTyUj1UXNp1meBiGRAZDvkob0e0tdAg0f9AfSxO7FhvRajeaungEx6i9+LBbDKP3pp7CPJk+gChkBY0T6Q9RKt8oxdWBMsMxxyZ6h54BQ+0M6Nkv24yOU2AwDpunQP/3KbBbjcJQszz68aSvGkWa5fF03g6sRo5pee5xjCEzktAojnGWFeLziNOjUXhsOc3XGIHzKxSOxuMmhQMveGcS/yssVSf3+pK4czcMTeJelupLik8EAL4t1P1s0fbzTdfnmppAjhwX24mPQ0Ml4ZdxELooOJI46hC2qGPU8jZFP6EdTR0d//8KxdaYVAeU8L2haPvkYL7Y0kr8oEgADlHitSERORM3OBYSQRMJ/903hWnoW5D4jB6LDQGHt6x4WHhWU4I/5qeJ17z3elHN7d9m9NU67miVJzxUx123OVHw1jre76Pff69iudpHpWC4igXN3X/TlMDt/ifJvfwH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T20:28:49.897Z" agent="5.0 (X11)" etag="7t91La6U6wTbZNDl8laj" version="20.0.1" type="github">
+  <diagram id="-aXSDQ4N-dTGHUJC1ZHd" name="Page-1">
+    <mxGraphModel dx="1402" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4mFLptFi-qGbesnEWtTA-1" value="Relaying Party (Ardoq)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="55" y="30" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-3" value="OpenId provider (GitHub, Google)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="60" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-4" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="160" width="10" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-6" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+          <mxGeometry x="515" y="160" width="10" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-9" value="&lt;div&gt;Authentication request&lt;/div&gt;&lt;div&gt;passing Client ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.103;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4mFLptFi-qGbesnEWtTA-4" target="4mFLptFi-qGbesnEWtTA-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-10" value="User" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-11" value="&lt;div&gt;Authorize Ardoq&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4mFLptFi-qGbesnEWtTA-10" vertex="1">
+          <mxGeometry x="-5" y="35" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4mFLptFi-qGbesnEWtTA-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="sourcePoint" />
+            <mxPoint x="520" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-13" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" parent="1" source="4mFLptFi-qGbesnEWtTA-6" target="4mFLptFi-qGbesnEWtTA-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="360" as="sourcePoint" />
+            <mxPoint x="465" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-14" value="&lt;div&gt;Redirect user to&lt;/div&gt;&lt;div&gt;callback URI&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4mFLptFi-qGbesnEWtTA-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.0991" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-18" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-19" value="Sends code and client secret" style="endArrow=classic;html=1;rounded=0;exitX=0.703;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.697;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4mFLptFi-qGbesnEWtTA-4" target="4mFLptFi-qGbesnEWtTA-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="470" as="sourcePoint" />
+            <mxPoint x="820" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-23" value="Receives access token" style="endArrow=classic;html=1;rounded=0;exitX=0.902;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.899;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4mFLptFi-qGbesnEWtTA-6" target="4mFLptFi-qGbesnEWtTA-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="420" as="sourcePoint" />
+            <mxPoint x="770" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-24" value="&lt;div&gt;One-time code&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="420" y="480" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-25" value="&lt;div&gt;One-time code&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="180" y="370" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-26" value="&lt;div&gt;Access token&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="580" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-28" value="&lt;div&gt;Make calls with access token&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4mFLptFi-qGbesnEWtTA-4" target="4mFLptFi-qGbesnEWtTA-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="720" as="sourcePoint" />
+            <mxPoint x="330" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mFLptFi-qGbesnEWtTA-29" value="&lt;div&gt;Access token&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="300" y="680" width="85" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
