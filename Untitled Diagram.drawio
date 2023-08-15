@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T09:44:59.027Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="FW1xRPaq-alLskvIExBe" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T10:12:23.510Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Nc5_sag9ZUn0Y_fjh-zt" version="21.3.8" type="github">
   <diagram name="Page-1" id="WsIweVZdntcUjOoOMrj2">
     <mxGraphModel dx="1224" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,8 +62,8 @@
         <mxCell id="EP-WUIZM4srGzJI7vRrR-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=7;" vertex="1" parent="1">
           <mxGeometry x="35" y="200" width="345" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="EP-WUIZM4srGzJI7vRrR-23" value="&lt;font color=&quot;#a51d2d&quot; style=&quot;font-size: 19px;&quot;&gt;This replaces OpenAI&#39;s Embedding API&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="130" width="240" height="50" as="geometry" />
+        <mxCell id="EP-WUIZM4srGzJI7vRrR-23" value="&lt;font color=&quot;#a51d2d&quot; style=&quot;font-size: 19px;&quot;&gt;This part runs inside a Docker container, and replaces OpenAI&#39;s Embedding API&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="130" width="282.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
